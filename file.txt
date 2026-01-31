@@ -1,2 +1,3 @@
-This is the sample file.
+This is the Sample File.
 These are the changes in the sample branch so that later we can merge it with the main branch.
+There changes are to learn that how to resolve conflicts.
