@@ -4,4 +4,6 @@ There changes are to learn that how to resolve conflicts.
 #This is the sample file.
 These are the changes in the sample branch so that later we can merge it with the main branch.
 These are the changes in the main branch so that we can learn how to resolve it.
+CONFLICT RESOLUTION:
 the changes is made into sample file
+the change is made into Sample File
